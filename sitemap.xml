@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+ <url>
+  <loc>https://dobrenky.nedicom.ru/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+ </url>
+ <url>
+ <url>
+  <loc>https://dobrenky.nedicom.ru/oferta.php</loc>
+  <lastmod>2022-07-05T13:35:06+03:00</lastmod>
+  <priority>1</priority>
+ </url>
+</urlset>
