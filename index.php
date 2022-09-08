@@ -59,8 +59,14 @@
 			<h4> <i class="pr-3 bi bi-phone"></i>
 				<a class="text-decoration-none text-dark" href="tel:+79788838978">	+79788838978</a>
 			</h4>
-			<div> <i class="pr-3 bi bi-pin-map"></i> Республика Крым, г. Симферополь</div>
+			<div>
+						<!-- Кнопка-триггер модального окна -->
+			<button type="button" class="btn  btn-lg" data-bs-toggle="modal" data-bs-target="#mapModal">
+				<i class="pr-3 bi bi-pin-map"></i> Республика Крым, г. Симферополь</div>
+			</button>
 		</nav>
+
+
 
 
 		<!--  меню 2 -->
@@ -595,6 +601,8 @@
 			</nav>
 
 		<?php include "src/message/message.php" ?>
+
+		<?php include "src/popup_map/popup.php" ?>
 
 	<!-- Модальное окно -->
 		<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
