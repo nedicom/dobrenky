@@ -93,6 +93,7 @@
 						</li>
 					</ul>
 					<div class="navbar-text text-center">
+
 						<!-- Кнопка-триггер модального окна -->
 							<button type="button" class="btn  btn-lg" style="background-color: #9900ff; color: white;" data-bs-toggle="modal" data-bs-target="#exampleModal">
 								взыскать алименты
@@ -105,6 +106,9 @@
 		</div>
 
 		<!-- телефон для мобильного -->
+		<button type="button" class="btn  btn-lg" data-bs-toggle="modal" data-bs-target="#mapModal">
+			<i class="pr-3 bi bi-pin-map"></i> Республика Крым, г. Симферополь</div>
+		</button>
 		<h4 class="d-md-none text-center mb-4 pt-4 border-top border-secondary"><i class="bi bi-phone"></i>
 			<a class="text-decoration-none text-dark" href="tel:+79788838978">+79788838978</a>
 		</h4>
